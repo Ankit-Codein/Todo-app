@@ -1,2 +1,9 @@
-# Todo-app
-The Todo Application is a sleek and intuitive task manager built with React.js (Vite). It offers seamless CRUD functionality—Create, Read, Update, Delete—and uses Local Storage to persist user data across browser sessions. You can check it live here: goals-context.netlify.app.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Todo UI image](Todo-app-image.png)
